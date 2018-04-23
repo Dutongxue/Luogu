@@ -17,8 +17,8 @@ iostream
 /home/enheng/algorithm/Luogu/main.cpp
 iostream
 -
-贪心/P1181.h
-/home/enheng/algorithm/Luogu/贪心/P1181.h
+贪心/P1208.h
+/home/enheng/algorithm/Luogu/贪心/P1208.h
 排序/P1781.h
 /home/enheng/algorithm/Luogu/排序/P1781.h
 
@@ -147,4 +147,16 @@ iostream
 -
 
 /home/enheng/algorithm/Luogu/贪心/P1181.h
+
+/home/enheng/algorithm/Luogu/贪心/P1208.cpp
+P1208.h
+/home/enheng/algorithm/Luogu/贪心/P1208.h
+iostream
+-
+map
+-
+algorithm
+-
+
+/home/enheng/algorithm/Luogu/贪心/P1208.h
 
