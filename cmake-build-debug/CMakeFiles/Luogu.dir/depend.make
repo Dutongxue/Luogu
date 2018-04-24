@@ -6,7 +6,7 @@ CMakeFiles/Luogu.dir/BFS/P1162.cpp.o: ../BFS/P1162.h
 
 CMakeFiles/Luogu.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Luogu.dir/main.cpp.o: ../排序/P1781.h
-CMakeFiles/Luogu.dir/main.cpp.o: ../贪心/P1208.h
+CMakeFiles/Luogu.dir/main.cpp.o: ../贪心/P1223.h
 
 CMakeFiles/Luogu.dir/排序/P1068.cpp.o: ../排序/P1068.cpp
 CMakeFiles/Luogu.dir/排序/P1068.cpp.o: ../排序/P1068.h
@@ -40,4 +40,7 @@ CMakeFiles/Luogu.dir/贪心/P1181.cpp.o: ../贪心/P1181.h
 
 CMakeFiles/Luogu.dir/贪心/P1208.cpp.o: ../贪心/P1208.cpp
 CMakeFiles/Luogu.dir/贪心/P1208.cpp.o: ../贪心/P1208.h
+
+CMakeFiles/Luogu.dir/贪心/P1223.cpp.o: ../贪心/P1223.cpp
+CMakeFiles/Luogu.dir/贪心/P1223.cpp.o: ../贪心/P1223.h
 

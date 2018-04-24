@@ -12,12 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b5b8966-aa36-43a8-ae08-a75538a471cf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/py/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/贪心/P1223.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/贪心/P1223.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Luogu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Luogu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Luogu.dir/cmake_clean.cmake" afterDir="false" />
@@ -27,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Luogu.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Luogu.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -61,14 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P1223.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P1223.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/贪心/P1223.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding>
-                <element signature="e#40#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -282,12 +273,20 @@
       <workItem from="1524322700940" duration="1809000" />
       <workItem from="1524415220932" duration="601000" />
       <workItem from="1524496381275" duration="3284000" />
-      <workItem from="1524568085581" duration="4974000" />
+      <workItem from="1524568085581" duration="9198000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1524581642096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524581642096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99398000" />
+    <option name="totallyTimeSpent" value="103622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,15 +299,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1044" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778435" visible="true" weight="0.21024546" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3286026" />
       <window_info anchor="bottom" id="CMake" order="7" weight="0.26390404" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969433" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24781659" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24781659" />
       <window_info id="Structure" order="1" sideWeight="0.5022157" side_tool="true" weight="0.21024546" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286026" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -355,6 +353,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,22 +785,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/贪心/P1223.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/贪心/P1223.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-          <folding>
-            <element signature="e#40#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
