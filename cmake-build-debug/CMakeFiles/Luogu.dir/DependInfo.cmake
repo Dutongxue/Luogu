@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/enheng/algorithm/Luogu/贪心/P1090.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1090.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1181.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1181.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1208.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1208.cpp.o"
+  "/home/enheng/algorithm/Luogu/贪心/P1223.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1223.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

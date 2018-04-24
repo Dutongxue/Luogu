@@ -159,6 +159,12 @@
 		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1208.h">
 			<Option target="Luogu"/>
 		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1223.cpp">
+			<Option target="Luogu"/>
+		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1223.h">
+			<Option target="Luogu"/>
+		</Unit>
 		<Unit filename="/home/enheng/algorithm/Luogu/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

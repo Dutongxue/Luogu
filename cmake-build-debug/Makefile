@@ -474,6 +474,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1208.cpp.s
 .PHONY : 贪心/P1208.cpp.s
 
+贪心/P1223.o: 贪心/P1223.cpp.o
+
+.PHONY : 贪心/P1223.o
+
+# target to build an object file
+贪心/P1223.cpp.o:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1223.cpp.o
+.PHONY : 贪心/P1223.cpp.o
+
+贪心/P1223.i: 贪心/P1223.cpp.i
+
+.PHONY : 贪心/P1223.i
+
+# target to preprocess a source file
+贪心/P1223.cpp.i:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1223.cpp.i
+.PHONY : 贪心/P1223.cpp.i
+
+贪心/P1223.s: 贪心/P1223.cpp.s
+
+.PHONY : 贪心/P1223.s
+
+# target to generate assembly for a file
+贪心/P1223.cpp.s:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1223.cpp.s
+.PHONY : 贪心/P1223.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -522,6 +549,9 @@ help:
 	@echo "... 贪心/P1208.o"
 	@echo "... 贪心/P1208.i"
 	@echo "... 贪心/P1208.s"
+	@echo "... 贪心/P1223.o"
+	@echo "... 贪心/P1223.i"
+	@echo "... 贪心/P1223.s"
 .PHONY : help
 
 
