@@ -4,6 +4,10 @@
 CMakeFiles/Luogu.dir/BFS/P1162.cpp.o: ../BFS/P1162.cpp
 CMakeFiles/Luogu.dir/BFS/P1162.cpp.o: ../BFS/P1162.h
 
+CMakeFiles/Luogu.dir/DFS/P1019.cpp.o: ../DFS/P1019.cpp
+CMakeFiles/Luogu.dir/DFS/P1019.cpp.o: ../DFS/P1019.h
+
+CMakeFiles/Luogu.dir/main.cpp.o: ../DFS/P1019.h
 CMakeFiles/Luogu.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Luogu.dir/main.cpp.o: ../排序/P1781.h
 CMakeFiles/Luogu.dir/main.cpp.o: ../贪心/P1223.h

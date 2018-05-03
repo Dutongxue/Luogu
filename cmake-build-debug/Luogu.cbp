@@ -90,6 +90,12 @@
 		<Unit filename="/home/enheng/algorithm/Luogu/BFS/P1162.h">
 			<Option target="Luogu"/>
 		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/DFS/P1019.cpp">
+			<Option target="Luogu"/>
+		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/DFS/P1019.h">
+			<Option target="Luogu"/>
+		</Unit>
 		<Unit filename="/home/enheng/algorithm/Luogu/main.cpp">
 			<Option target="Luogu"/>
 		</Unit>

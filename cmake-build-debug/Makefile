@@ -150,6 +150,33 @@ BFS/P1162.cpp.s:
 	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/BFS/P1162.cpp.s
 .PHONY : BFS/P1162.cpp.s
 
+DFS/P1019.o: DFS/P1019.cpp.o
+
+.PHONY : DFS/P1019.o
+
+# target to build an object file
+DFS/P1019.cpp.o:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/DFS/P1019.cpp.o
+.PHONY : DFS/P1019.cpp.o
+
+DFS/P1019.i: DFS/P1019.cpp.i
+
+.PHONY : DFS/P1019.i
+
+# target to preprocess a source file
+DFS/P1019.cpp.i:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/DFS/P1019.cpp.i
+.PHONY : DFS/P1019.cpp.i
+
+DFS/P1019.s: DFS/P1019.cpp.s
+
+.PHONY : DFS/P1019.s
+
+# target to generate assembly for a file
+DFS/P1019.cpp.s:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/DFS/P1019.cpp.s
+.PHONY : DFS/P1019.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -513,6 +540,9 @@ help:
 	@echo "... BFS/P1162.o"
 	@echo "... BFS/P1162.i"
 	@echo "... BFS/P1162.s"
+	@echo "... DFS/P1019.o"
+	@echo "... DFS/P1019.i"
+	@echo "... DFS/P1019.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/enheng/algorithm/Luogu/BFS/P1162.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/BFS/P1162.cpp.o"
+  "/home/enheng/algorithm/Luogu/DFS/P1019.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/DFS/P1019.cpp.o"
   "/home/enheng/algorithm/Luogu/main.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/main.cpp.o"
   "/home/enheng/algorithm/Luogu/排序/P1068.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/排序/P1068.cpp.o"
   "/home/enheng/algorithm/Luogu/排序/P1781.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/排序/P1781.cpp.o"

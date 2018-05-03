@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Luogu.dir/排序/P1781.cpp.o"
   "CMakeFiles/Luogu.dir/贪心/P1208.cpp.o"
   "CMakeFiles/Luogu.dir/贪心/P1223.cpp.o"
+  "CMakeFiles/Luogu.dir/DFS/P1019.cpp.o"
   "Luogu.pdb"
   "Luogu"
 )

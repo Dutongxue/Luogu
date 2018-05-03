@@ -14,6 +14,20 @@ iostream
 
 /home/enheng/algorithm/Luogu/BFS/P1162.h
 
+/home/enheng/algorithm/Luogu/DFS/P1019.cpp
+P1019.h
+/home/enheng/algorithm/Luogu/DFS/P1019.h
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+
+/home/enheng/algorithm/Luogu/DFS/P1019.h
+
 /home/enheng/algorithm/Luogu/main.cpp
 iostream
 -
@@ -21,6 +35,8 @@ iostream
 /home/enheng/algorithm/Luogu/贪心/P1223.h
 排序/P1781.h
 /home/enheng/algorithm/Luogu/排序/P1781.h
+DFS/P1019.h
+/home/enheng/algorithm/Luogu/DFS/P1019.h
 
 /home/enheng/algorithm/Luogu/排序/P1068.cpp
 P1068.h
