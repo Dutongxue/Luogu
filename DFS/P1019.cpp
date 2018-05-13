@@ -15,7 +15,7 @@ int a[20] = {0};
 int n1019, len = 1, ans = 0;
 vector<string> v(20);
 
-int fun(string &d, string &s) {
+int fun(string &d, string &s) {//计算重复次数
     for (int i = (int) d.length() - 1; i > 0; --i) {
         int si = 0;
         if (d[i] == s[0]) {

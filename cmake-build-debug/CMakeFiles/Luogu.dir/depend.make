@@ -10,7 +10,7 @@ CMakeFiles/Luogu.dir/DFS/P1019.cpp.o: ../DFS/P1019.h
 CMakeFiles/Luogu.dir/main.cpp.o: ../DFS/P1019.h
 CMakeFiles/Luogu.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Luogu.dir/main.cpp.o: ../排序/P1781.h
-CMakeFiles/Luogu.dir/main.cpp.o: ../贪心/P1223.h
+CMakeFiles/Luogu.dir/main.cpp.o: ../贪心/P1094.h
 
 CMakeFiles/Luogu.dir/排序/P1068.cpp.o: ../排序/P1068.cpp
 CMakeFiles/Luogu.dir/排序/P1068.cpp.o: ../排序/P1068.h
@@ -38,6 +38,9 @@ CMakeFiles/Luogu.dir/简单模拟/P1563.cpp.o: ../简单模拟/P1563.h
 
 CMakeFiles/Luogu.dir/贪心/P1090.cpp.o: ../贪心/P1090.cpp
 CMakeFiles/Luogu.dir/贪心/P1090.cpp.o: ../贪心/P1090.h
+
+CMakeFiles/Luogu.dir/贪心/P1094.cpp.o: ../贪心/P1094.cpp
+CMakeFiles/Luogu.dir/贪心/P1094.cpp.o: ../贪心/P1094.h
 
 CMakeFiles/Luogu.dir/贪心/P1181.cpp.o: ../贪心/P1181.cpp
 CMakeFiles/Luogu.dir/贪心/P1181.cpp.o: ../贪心/P1181.h

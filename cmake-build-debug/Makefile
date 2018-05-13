@@ -447,6 +447,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1090.cpp.s
 .PHONY : 贪心/P1090.cpp.s
 
+贪心/P1094.o: 贪心/P1094.cpp.o
+
+.PHONY : 贪心/P1094.o
+
+# target to build an object file
+贪心/P1094.cpp.o:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1094.cpp.o
+.PHONY : 贪心/P1094.cpp.o
+
+贪心/P1094.i: 贪心/P1094.cpp.i
+
+.PHONY : 贪心/P1094.i
+
+# target to preprocess a source file
+贪心/P1094.cpp.i:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1094.cpp.i
+.PHONY : 贪心/P1094.cpp.i
+
+贪心/P1094.s: 贪心/P1094.cpp.s
+
+.PHONY : 贪心/P1094.s
+
+# target to generate assembly for a file
+贪心/P1094.cpp.s:
+	$(MAKE) -f CMakeFiles/Luogu.dir/build.make CMakeFiles/Luogu.dir/贪心/P1094.cpp.s
+.PHONY : 贪心/P1094.cpp.s
+
 贪心/P1181.o: 贪心/P1181.cpp.o
 
 .PHONY : 贪心/P1181.o
@@ -573,6 +600,9 @@ help:
 	@echo "... 贪心/P1090.o"
 	@echo "... 贪心/P1090.i"
 	@echo "... 贪心/P1090.s"
+	@echo "... 贪心/P1094.o"
+	@echo "... 贪心/P1094.i"
+	@echo "... 贪心/P1094.s"
 	@echo "... 贪心/P1181.o"
 	@echo "... 贪心/P1181.i"
 	@echo "... 贪心/P1181.s"

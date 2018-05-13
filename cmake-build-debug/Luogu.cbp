@@ -153,6 +153,12 @@
 		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1090.h">
 			<Option target="Luogu"/>
 		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1094.cpp">
+			<Option target="Luogu"/>
+		</Unit>
+		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1094.h">
+			<Option target="Luogu"/>
+		</Unit>
 		<Unit filename="/home/enheng/algorithm/Luogu/贪心/P1181.cpp">
 			<Option target="Luogu"/>
 		</Unit>

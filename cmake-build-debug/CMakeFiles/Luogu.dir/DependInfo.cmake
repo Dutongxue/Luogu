@@ -16,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/enheng/algorithm/Luogu/简单模拟/P1540.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/简单模拟/P1540.cpp.o"
   "/home/enheng/algorithm/Luogu/简单模拟/P1563.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/简单模拟/P1563.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1090.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1090.cpp.o"
+  "/home/enheng/algorithm/Luogu/贪心/P1094.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1094.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1181.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1181.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1208.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1208.cpp.o"
   "/home/enheng/algorithm/Luogu/贪心/P1223.cpp" "/home/enheng/algorithm/Luogu/cmake-build-debug/CMakeFiles/Luogu.dir/贪心/P1223.cpp.o"

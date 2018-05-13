@@ -31,8 +31,8 @@ vector
 /home/enheng/algorithm/Luogu/main.cpp
 iostream
 -
-贪心/P1223.h
-/home/enheng/algorithm/Luogu/贪心/P1223.h
+贪心/P1094.h
+/home/enheng/algorithm/Luogu/贪心/P1094.h
 排序/P1781.h
 /home/enheng/algorithm/Luogu/排序/P1781.h
 DFS/P1019.h
@@ -155,6 +155,16 @@ queue
 -
 
 /home/enheng/algorithm/Luogu/贪心/P1090.h
+
+/home/enheng/algorithm/Luogu/贪心/P1094.cpp
+P1094.h
+/home/enheng/algorithm/Luogu/贪心/P1094.h
+iostream
+-
+map
+-
+
+/home/enheng/algorithm/Luogu/贪心/P1094.h
 
 /home/enheng/algorithm/Luogu/贪心/P1181.cpp
 P1181.h
